@@ -2,7 +2,6 @@ octo-preloader-cpp
 ==============
 
 [![Preloader Linux Build Pipeline](https://github.com/ofiriluz/octo-monitor-cpp/actions/workflows/linux.yml/badge.svg)](https://github.com/ofiriluz/octo-monitor-cpp/actions/workflows/linux.yml)
-
 [![Preloader Mac Build Pipeline](https://github.com/ofiriluz/octo-monitor-cpp/actions/workflows/mac.yml/badge.svg)](https://github.com/ofiriluz/octo-monitor-cpp/actions/workflows/mac.yml)
 
 Monitoring infrastructure for processes
