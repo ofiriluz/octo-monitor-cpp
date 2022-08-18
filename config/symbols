@@ -1,0 +1,22 @@
+{
+  global: 
+    __xstat; 
+    __fxstat; 
+    __lxstat; 
+    stat; 
+    fstat; 
+    lstat;
+    open;
+    close;
+    open64;
+    fopen;
+    fclose;
+    execl;
+    excelp;
+    execle;
+    execv;
+    execvp;
+    execvpe;
+    access;
+  local: *;
+};
